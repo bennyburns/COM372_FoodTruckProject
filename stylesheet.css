@@ -1,0 +1,80 @@
+em{
+  color: green
+}
+
+#OurStory{
+  float: left;
+  padding-right: 3em;
+  padding-left: 2em;
+  text-align: left;
+}
+
+#menu{
+  float: left;
+  padding-right: 3em;
+  padding-left: 2em;
+  text-align: center;
+}
+
+#UpcomingEvents{
+  float: left;
+  padding-right: 3em;
+  padding-left: 2em;
+}
+
+.nav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  }
+
+.nav{
+  float: left;
+}
+
+h1 {
+text-align: center;
+margin-bottom: 0%;
+color: #FC5447;
+font-size: 3.5em;
+font-family: 'Raleway',sans-serif;
+}
+
+body {
+font-family: 'Raleway', sans-serif;
+padding: 0%;
+margin: 0%;
+text-align: center;
+background-color: #FF9966
+}
+
+
+#navbar {
+float: left;
+width: 100%;
+border-top: dotted;
+border-bottom: dotted;
+padding-left: 35%;
+padding-bottom:1.5em;
+padding-top: 1em;
+}
+
+h3{
+  padding: 1em;
+  text-align: center;
+  font-family:'Raleway' sans-serif;
+}
+
+.menuitems{
+  padding: 1em;
+  margin: auto;
+  }
+
+#applist{
+  padding-bottom: 1em;
+}
+
+.food{
+  width: 100%;
+  margin: auto;
+}
